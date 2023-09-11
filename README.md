@@ -32,12 +32,12 @@ This is a simple blogging platform API that provides user registration and login
     - ReadBlog from request in Postman.
       `Endpoint: BASE_URL/readBlog`
 
-    ### Blog Read APIs PUT /updateBlog/:id
+    ### Blog Update APIs PUT /updateBlog/:id
 
     - UpdateBlog from request body in Postman.
       `Endpoint: BASE_URL/updateBlog/:id`
 
-    ### Blog Read APIs DELETE /deleteBlog/:id
+    ### Blog Delete APIs DELETE /deleteBlog/:id
 
     - DeleteBlog from request in Postman.
       `Endpoint: BASE_URL/deleteBlog/:id`
